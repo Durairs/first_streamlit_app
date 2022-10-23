@@ -46,7 +46,7 @@ try:
 #          streamlit.error()
     
 # coverted the normailized version in a dataframe.
-streamlit.dataframe(fruityvice_normalized)
+#streamlit.dataframe(fruityvice_normalized)
 
 # dont run anything past here while we troubleshoot
 streamlit.stop()
